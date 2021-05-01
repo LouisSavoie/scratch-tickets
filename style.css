@@ -6,9 +6,15 @@ h1 {
     text-align: center;
 }
 
-.ticket-container {
+.container {
     display        : flex;
     justify-content: center;
+}
+
+/* New Ticket Button */
+#new-ticket-button {
+    margin: .5rem 0 2rem 0;
+    font-size: 20px;
 }
 
 #cell-container {
